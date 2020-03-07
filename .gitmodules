@@ -1,0 +1,6 @@
+[submodule "consumer"]
+	path = consumer
+	url = git@github.com:maoyuanli/covid19consume.git
+[submodule "restapi"]
+	path = restapi
+	url = git@github.com:maoyuanli/covid19api.git
